@@ -1,0 +1,6 @@
+chipotle_zipcode.rb 	extracts hours when a user enters zipcode
+chipotle_all.rb 	extracts hours from a given directory of html pages
+chipotle_download.rb	downloads html pages
+extract.rb		contains the regex to collect relevant info
+chiptole_dc_html	saved html pages of dc chipotle listings
+chipotle_dc.csv		extracted dc hours
